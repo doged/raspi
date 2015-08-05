@@ -8,4 +8,5 @@ after installing dependencies:
 cd src && make -f makefile.unix
 
 visit our irc chat!
+
 [![Visit our IRC Chat!](https://kiwiirc.com/buttons/irc.freenode.net/dogecoindark.png)](https://kiwiirc.com/client/irc.freenode.net/?nick=doged|?&theme=cli#dogecoindark)
