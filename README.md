@@ -1,3 +1,4 @@
+![raspi-doged](https://raw.githubusercontent.com/doged/raspi/master/doged-raspi.png)
 # raspi
 
 raspberry pi files for doged wallet/daemon
