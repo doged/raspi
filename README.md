@@ -2,8 +2,6 @@
 
 #raspberry pi files for doged wallet/daemon
 
-put these files in your /src directory after cloning the dogecoindark source code from https://github.com/doged/dogedsource/
-
 after installing dependencies:
 
 cd src && make -f makefile.unix
