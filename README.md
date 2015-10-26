@@ -3,6 +3,13 @@
 #raspberry pi files for doged wallet/daemon
 
 after installing dependencies:
+<<<<<<< HEAD
+=======
+
+cd src && make -f makefile.unix
+
+visit our irc chat!
+>>>>>>> origin/master
 
 cd src && make -f makefile.unix
 
