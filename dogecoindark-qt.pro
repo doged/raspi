@@ -288,7 +288,8 @@ SOURCES += src/qt/bitcoin.cpp src/qt/bitcoingui.cpp \
     src/pbkdf2.cpp \
 	src/qt/chatwindow.cpp \
 	src/qt/serveur.cpp \
-	src/qt/blockbrowser.cpp
+	src/qt/blockbrowser.cpp \
+	src/scrypt-arm.S
 
 RESOURCES += \
     src/qt/bitcoin.qrc
