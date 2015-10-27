@@ -13,7 +13,9 @@ cd src && make -f makefile.unix
 to compile qt gui wallet:
 
 qmake
+
 make
+
 makestrip --strip-unneeded dogecoindark-qt
 
 visit our irc chat!
